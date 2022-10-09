@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T07:45:21.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6S0HhX-HRz2QNg36zMIj" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T07:49:26.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QEfE7pvZcwdlX79u33dD" version="20.4.0" type="github">
   <diagram id="64sL20sVKEMzImHlBKcd" name="第 1 页">
     <mxGraphModel dx="1038" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
         <mxCell id="XwhAecOFNKZi0p1pmvaY-21" value="操作用户配置文件" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="818" width="86.7" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="XwhAecOFNKZi0p1pmvaY-23" value="操作用户配置文件" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+        <mxCell id="XwhAecOFNKZi0p1pmvaY-23" value="实时监测外部IO输入" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="1221" width="86.7" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XwhAecOFNKZi0p1pmvaY-25" value="发送打标数据给振镜" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
