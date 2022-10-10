@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T03:08:57.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nvVqoxEmT-BTOao4bjRS" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T07:52:19.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JzqvppzXCuZZonQol8jo" version="20.4.0" type="github">
   <diagram id="64sL20sVKEMzImHlBKcd" name="第 1 页">
     <mxGraphModel dx="1038" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="n3pyETa5GkpWAGw-3gH3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="n3pyETa5GkpWAGw-3gH3-70" target="n3pyETa5GkpWAGw-3gH3-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n3pyETa5GkpWAGw-3gH3-70" value="8路独立输入、输出" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="n3pyETa5GkpWAGw-3gH3-70" value="8路独立IO输入、输出" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="461.85" y="605.75" width="115" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="n3pyETa5GkpWAGw-3gH3-104" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=block;endFill=0;startSize=2;endSize=2;sourcePerimeterSpacing=0;fillColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n3pyETa5GkpWAGw-3gH3-78" target="n3pyETa5GkpWAGw-3gH3-50" edge="1">
